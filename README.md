@@ -53,21 +53,11 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
 
-## Работа с базами данных
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-</div>
 
 ## Автотесты
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
@@ -77,20 +67,6 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
-<br>
-
-## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
-
-<br>
-<br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
